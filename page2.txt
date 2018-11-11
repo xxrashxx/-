@@ -1,0 +1,23 @@
+<!doctype html>
+<html dir=rtl>
+  <head>
+    <title>My Website</title>
+    <meta charset="utf-8">
+    <meta property="viewport" content="width=device-width,initial-scale=1">
+    <link rel="icon" href="icon.png">
+  </head>
+  <body>
+  <p> - בוא נראה אם תשרוד ברוך הבא למבוך</p>
+  <p>"אתה מתוערר , מרגיש לך כאלו ישנת יום שלם, ואיך שאתה קם אתה מרגיש כאב חזק בראש כאלו מישהו הכה בך.
+      <br> אתה כרגע נמצא במקום חשוך לגמרי אינך רואה אפילו מטר קדימה ,אתה ממשש את הרצפה עליה אתה דורך ומגלה  שהיא עשוייה מחול.
+</p>
+   <p>
+       "מה אתה עושה עכשיו?"
+        <ul>
+                <li> במישוש סורק את האזור</li>
+                <li>מתחיל לחפור</li>
+                <li> וצועק לעזרה נכנס לפאניקה</li>
+              </ul>
+   </p>
+  </body>
+</html>		
